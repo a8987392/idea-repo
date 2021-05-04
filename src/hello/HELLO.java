@@ -15,6 +15,15 @@ public class HELLO {
 
     }
 
+    public void add(){
+
+        System.out.println("adddddddddddddddd");
+
+    }
+
+
+
+
 
 
 }
